@@ -1,0 +1,29 @@
+h1{
+    text-shadow: 4px 4px 5px orangered;
+    text-align: center;
+}
+.innghieng{
+    font-style: italic;
+    color: rgb(27, 27, 231);
+}
+.maudo{
+    color: red;
+    font-weight: bold;
+}
+p{
+    display: block;
+    text-indent: 30px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.chuxam{
+    text-align: right;
+    color: grey;
+    text-decoration: underline;
+    display: block;
+}
+.container{
+    width: 60%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
